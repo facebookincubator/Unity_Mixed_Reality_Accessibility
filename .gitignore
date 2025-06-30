@@ -1,0 +1,10 @@
+Library
+Logs
+Temp
+[Uu]ser[Ss]ettings
+obj
+*.csproj
+*.sln
+.vsconfig
+.vs
+*.apk
